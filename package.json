@@ -1,5 +1,5 @@
 {
-  "name": "react95",
+  "name": "@sagyo/react95",
   "version": "0.0.0-development",
   "description": "Refreshed Windows95 UI components for modern web apps - React95",
   "keywords": [
@@ -21,7 +21,7 @@
     }
   ],
   "license": "MIT",
-  "repository": "git@github.com:arturbien/React95.git",
+  "repository": "git@github.com:notSagyo/React95.git",
   "homepage": "https://react95.io",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
